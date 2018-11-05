@@ -3,7 +3,6 @@ This is a vue.js project.
 Get data from server by Ajax, and show data in page.
 
 
-
 ## Build Setup
 
 ``` bash
